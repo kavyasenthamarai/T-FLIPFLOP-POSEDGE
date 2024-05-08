@@ -41,8 +41,8 @@ Step 5: Run simulation to get the output.
 Step 6: Open in RTL viewers to get RTL diagram output
 
 **PROGRAM**
-#### Developed by: FRANKLIN RAJ G
-#### Register number: 212223230058
+#### Developed by: kavya k
+#### Register number: 212222230065
 ```
 module TFLIPFLOPPOSEDGE( input clk, rst_n, input t,
 output reg q,
